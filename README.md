@@ -1,2 +1,1 @@
-# -NEWTON-S-CRADLE
-Project-27
+# NC27
